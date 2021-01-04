@@ -482,6 +482,7 @@ void SegmentChar(const string strPic)
 
 int main (){
     SegmentChar("../image/ocr02.png");
+    print("hello\n");
     return 0;
 }
 
